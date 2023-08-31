@@ -1,13 +1,13 @@
 Overview
 
-FriendNpal is a mental health assistance app. It helps users who are uncomfortable/unable to talk to someone by giving a way to chat with an AI automated therapist on their phone when facing stressful or mentally overwhelming situations.
+FriendnPal is a mental health assistance app. It helps users who are uncomfortable/unable to talk to someone by giving a way to chat with an AI automated therapist on their phone when facing stressful or mentally overwhelming situations.
 
 
 Value Proposition
 
-FriendNpal exists to provide a safe and secure space for people to share their deepest thoughts and mental health issues. With the help of the advanced AI chatbot, users can now have a confidential conversation with a supportive companion who will listen without judgement, and offer helpful suggestions and insights.
+FriendnPal exists to provide a safe and secure space for people to share their deepest thoughts and mental health issues. With the help of the advanced AI chatbot, users can now have a confidential conversation with a supportive companion who will listen without judgement, and offer helpful suggestions and insights.
 The AI chatbot is designed to be intuitive and responsive, and uses natural language processing to understand and respond to users in a human-like manner. It can recognize patterns and offer personalised suggestions based on the user's input, making the conversation feel more organic and meaningful.
-With FriendNpal, users can remain anonymous and have conversations that are privacy-protected. The security and confidentiality of users will be highly prioritized and industry-standard security measures will be implemented to protect the data and information shared on the platform.
+With FriendnPal, users can remain anonymous and have conversations that are privacy-protected. The security and confidentiality of users will be highly prioritized and industry-standard security measures will be implemented to protect the data and information shared on the platform.
 
 
 Objectives
